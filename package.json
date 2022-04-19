@@ -1,5 +1,5 @@
 {
-  "name": "agenda",
+  "name": "@zimplemedia/agenda",
   "version": "4.2.1",
   "description": "Light weight job scheduler for Node.js",
   "main": "dist/cjs.js",
@@ -36,7 +36,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/agenda/agenda"
+    "url": "git://github.com/zimplemedia/agenda"
   },
   "keywords": [
     "job",
@@ -46,10 +46,10 @@
     "scheduler",
     "runner"
   ],
-  "author": "Ryan Schmukler <ryan@slingingcode.com> (http://slingingcode.com/)",
+  "author": "Tanomsak Khacharoen <tanomsak@renthub.in.th>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/agenda/agenda/issues"
+    "url": "https://github.com/zimplemedia/agenda/issues"
   },
   "dependencies": {
     "cron-parser": "^3.0.0",
